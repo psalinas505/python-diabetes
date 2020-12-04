@@ -1,4 +1,4 @@
-# python-diabetes
+# Python: Diabetes
 ITExperience Python ML Final Project on Diabetes
 
 
