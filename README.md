@@ -9,6 +9,7 @@ Create a python project using Google CoLab utilizing the python programming lang
 - Encourage to work in teams, but individual project is still accepted
 - Use Google CoLab
 - Use GitHub to collaborate with teammates and for version control
+- Use Slack channel for communication between teammates and instructors
 
 **Summary**
 
@@ -19,12 +20,14 @@ Create a python project using Google CoLab utilizing the python programming lang
 **Design**
 - Principles of Clean Coding and Coding Structure has been implemented
 - Markdown language has been used to enhanced the readability of the CoLab notebook
+- Utilize the "Pima Indians Diabetes Database"
 
 **Run Locally**
 
 
 **Tech Stack**
 - Google CoLab
+- Slack
 - GitHub
 - Pandas
 - Numpy
